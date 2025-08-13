@@ -21,7 +21,7 @@ Detail-oriented and quality-driven software developer with hands-on experience i
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png" /></a>
   <br>
 
-### Catch with me on
+### Reach me on
 <a href="https://www.instagram.com/prhnnn_ak" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="parhannn_ak" />
 </a>
