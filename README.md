@@ -6,7 +6,14 @@ I'm **Farhan**.<br>
 
 Detail-oriented and quality-driven software developer with hands-on experience in Android (Kotlin) and web (Laravel) development. Strong understanding of software lifecycle, debugging, and testing processes. Passionate about growing in the IT world by leveraging technical skills, development experience, and thoroughness to ensure robust and user-friendly applications.<br>
 
-Catch with me **[LinkedIn](https://www.linkedin.com/in/farhan-apri-kesuma/)**
+### Tech Stack
+  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png?20210501145042" /></a>
+  <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png" /></a>
+  <br>
+  <br>
+
+### Catch with me on
+- **[LinkedIn](https://www.linkedin.com/in/farhan-apri-kesuma/)**
 
 ### Github Statistic
 <p align="left">
