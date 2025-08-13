@@ -1,14 +1,12 @@
 <div align="center">
 
-[![GIF](https://cdn.myportfolio.com/a7dcc6d5ac1134b2d40ac6d1c5552304/1f0a0456-b934-4f28-beee-c47de7308667_rw_1920.gif?h=5ecc8b473e70030b5e3d8b8ef826ca1c)](#)
+[![GIF](https://cdn.pixabay.com/photo/2019/07/14/13/11/banner-4337089_1280.jpg)](#)
 
 </div>
 
-## Hi there 👋
+## Hi there!👋 I'm Farhan
 
-I'm **Farhan**.<br>
-
-**Fresh Fraduate Student** from [Institut Teknologi Sumatera](https://www.itera.ac.id/).<br>
+**Fresh Fraduate Student** from <a href="https://www.itera.ac.id/"><img align="left" alt="Kotlin" title="Kotlin" width="14px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_ITERA.png/1200px-Logo_ITERA.png" /></a> [Institut Teknologi Sumatera](https://www.itera.ac.id/).<br>
 
 Detail-oriented and quality-driven software developer with hands-on experience in Android (Kotlin) and web (Laravel) development. Strong understanding of software lifecycle, debugging, and testing processes. Passionate about growing in the IT world by leveraging technical skills, development experience, and thoroughness to ensure robust and user-friendly applications.<br>
 
