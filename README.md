@@ -1,6 +1,6 @@
 <div align="center">
 
-[![GIF](https://cdn.pixabay.com/photo/2019/07/14/13/11/banner-4337089_1280.jpg)](#)
+[![GIF](https://github.com/parhannn/parhannn/blob/main/assets/196ad9d3122098b297d7b99ce9ff209f.gif)](#)
 
 </div>
 
