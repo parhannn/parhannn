@@ -6,7 +6,11 @@
 
 ## Hi there!👋 I'm Farhan
 
-**Fresh Fraduate Student** from <a href="https://www.itera.ac.id/"><img align="left" alt="Kotlin" title="Kotlin" width="14px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_ITERA.png/1200px-Logo_ITERA.png" /></a> [Institut Teknologi Sumatera](https://www.itera.ac.id/).<br>
+I'm a **Fresh Graduate Student** from 
+<a href="https://www.itera.ac.id/" style="display: inline-flex; align-items: center;">
+  <img alt="ITERA" title="ITERA" width="14px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_ITERA.png/1200px-Logo_ITERA.png" style="vertical-align: middle; margin-right: 4px;" />
+  Institut Teknologi Sumatera
+</a><br>
 
 Detail-oriented and quality-driven software developer with hands-on experience in Android (Kotlin) and web (Laravel) development. Strong understanding of software lifecycle, debugging, and testing processes. Passionate about growing in the IT world by leveraging technical skills, development experience, and thoroughness to ensure robust and user-friendly applications.<br>
 
