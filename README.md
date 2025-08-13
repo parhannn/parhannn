@@ -4,6 +4,8 @@
 
 </div>
 
+---
+
 ## Hi there!👋 I'm Farhan
 
 I'm a **Fresh Graduate Student** from 
@@ -18,7 +20,6 @@ Detail-oriented and quality-driven software developer with hands-on experience i
   <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png?20210501145042" /></a>
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png" /></a>
   <br>
-  <br>
 
 ### Catch with me on
 <a href="https://www.instagram.com/prhnnn_ak" target="_blank">
@@ -30,6 +31,8 @@ Detail-oriented and quality-driven software developer with hands-on experience i
 <a href="https://www.linkedin.com/in/farhan-apri-kesuma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Farhan Apri Kesuma" />
 </a>
+<br>
+<br>
 
 ### Github Statistic
 <p align="left">
