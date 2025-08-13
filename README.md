@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm **Farhan**.<br>
+
+**Fresh Fraduate Student** from [Institut Teknologi Sumatera](https://www.itera.ac.id/).<br>
+
+Detail-oriented and quality-driven software developer with hands-on experience in Android (Kotlin) and web (Laravel) development. Strong understanding of software lifecycle, debugging, and testing processes. Passionate about growing in the IT world by leveraging technical skills, development experience, and thoroughness to ensure robust and user-friendly applications.<br>
+
+Catch with me **[LinkedIn](https://www.linkedin.com/in/farhan-apri-kesuma/)**
+
 <!--
 **parhannn/parhannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
