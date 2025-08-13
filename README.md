@@ -25,9 +25,6 @@ Detail-oriented and quality-driven software developer with hands-on experience i
 <a href="https://www.instagram.com/prhnnn_ak" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="parhannn_ak" />
 </a>
-<a href="https://github.com/parhannn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="parhannn" />
-</a>
 <a href="https://www.linkedin.com/in/farhan-apri-kesuma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Farhan Apri Kesuma" />
 </a>
@@ -45,15 +42,15 @@ Detail-oriented and quality-driven software developer with hands-on experience i
 <!--
 **parhannn/parhannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🔭 I’m currently working on **[Surga Tech](https://www.surga.tech/)**
+- 🌱 I’m currently learning about Golang and Flutter
+- 📫 How to reach me: farhannn58@gmail.com
+- ⚡ Fun fact: CS Player
+
 Here are some ideas to get you started:
 &exclude_repo=tech-test-farhan,if4021-multimedia
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
