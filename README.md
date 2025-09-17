@@ -25,7 +25,7 @@ Detail-oriented and quality-driven software developer with hands-on experience i
 <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png?20210501145042" /></a>
 <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png" /></a>
 <a href="https://nextjs.org/"><img align="left" alt="Next JS" title="Next JS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/640px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
-<a href="https://www.odoo.com/"><img align="left" alt="Odoo" title="Odoo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Odoo_logo.svg/640px-Odoo_logo.svg.png" /></a>
+<a href="https://www.odoo.com/"><img align="left" alt="Odoo" title="Odoo" width="50px" src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" /></a>
 <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP " width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" /></a>
 <a href="https://www.w3schools.com/Html/"><img align="left" alt="HTML" title="HTML" width="21px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" /></a>
 <a href="https://www.w3schools.com/css/"><img align="left" alt="CSS" title="CSS" width="22px" src="https://blog.leonhassan.co.uk/content/images/2019/09/css3.svg" /></a>
