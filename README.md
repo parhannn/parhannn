@@ -61,7 +61,7 @@ Detail-oriented and quality-driven software developer with hands-on experience i
   <span style="display: inline-flex; align-items: center; gap: 6px;">
   <img alt="CS2" title="CS2" width="16px" 
          src="https://smoothwizard.com/wp-content/uploads/2023/11/cs2.png" />
-  CS Player
+  **CS2 Player**
   </span>
 
 <!-- Here are some ideas to get you started:
