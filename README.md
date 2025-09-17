@@ -33,6 +33,7 @@ Detail-oriented and quality-driven software developer with hands-on experience i
 <br>
 
 ### Reach me on
+
 <a href="https://www.instagram.com/prhnnn_ak" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="parhannn_ak" />
 </a>
@@ -51,15 +52,17 @@ Detail-oriented and quality-driven software developer with hands-on experience i
 </a>
 </p>
 
-
 <!-- **parhannn/parhannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on **[WeselAja](https://www.weselaja.com/)** as a **Software Engineer**
 - 🌱 I’m currently learning about Odoo, NextJS, Payment API, Golang, and Flutter
 - 📫 How to reach me: farhannn58@gmail.com
-<a href="https://static.wikia.nocookie.net/logopedia/images/4/49/Counter-Strike_2_%28Icon%29.png/revision/latest?cb=20230330015359" style="display: inline-flex; align-items: center;">
-- ⚡ Fun fact: CS Player
-<img alt="CS2" title="CS2" width="16px" src="https://smoothwizard.com/wp-content/uploads/2023/11/cs2.png" style="vertical-align: middle; margin-right: 4px;" />
+- ⚡ Fun fact:
+  <span style="display: inline-flex; align-items: center; gap: 6px;">
+  <img alt="CS2" title="CS2" width="16px" 
+         src="https://smoothwizard.com/wp-content/uploads/2023/11/cs2.png" />
+  CS Player
+  </span>
 
 <!-- Here are some ideas to get you started:
 &exclude_repo=tech-test-farhan,if4021-multimedia
@@ -67,4 +70,3 @@ Detail-oriented and quality-driven software developer with hands-on experience i
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ... -->
-
