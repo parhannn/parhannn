@@ -43,6 +43,8 @@ Detail-oriented and quality-driven software developer with hands-on experience i
 <br>
 <br>
 
+---
+
 ### Github Statistic
 
 <p align="left">
