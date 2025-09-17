@@ -32,8 +32,7 @@ Detail-oriented and quality-driven software developer with hands-on experience i
 <a href="https://www.w3schools.com/js/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://image.web.id/images/2022/06/25/afcd6338addfa349998278a2f3e2d005.png" /></a>
 <br>
 
-### Catch with me on
-
+### Reach me on
 <a href="https://www.instagram.com/prhnnn_ak" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="parhannn_ak" />
 </a>
