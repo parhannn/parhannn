@@ -57,7 +57,7 @@ Detail-oriented and quality-driven software developer with hands-on experience i
 - 🔭 I’m currently working on **[WeselAja](https://www.weselaja.com/)** as a **Software Engineer**
 - 🌱 I’m currently learning about Odoo, NextJS, Payment API, Golang, and Flutter
 - 📫 How to reach me: farhannn58@gmail.com
-- ⚡ Fun fact: CS Player <a href="https://www.counter-strike.net/cs2" style="display: inline-flex; align-items: center;">
+- ⚡ Fun fact: <a href="https://www.counter-strike.net/cs2" style="display: inline-flex; align-items: center;">CS Player
 <img alt="CS2" title="CS2" width="16px" src="https://smoothwizard.com/wp-content/uploads/2023/11/cs2.png" style="vertical-align: middle; margin-right: 4px;" />
 
 <!-- Here are some ideas to get you started:
